@@ -1,0 +1,50 @@
+#answer1 {
+  display: none;
+}
+#answer2 {
+  display: none;
+
+}
+#answer3 {
+  display: none;
+}
+#flash1 {
+  cursor: pointer;
+  color: white;
+  text-align: justify;
+  font-size: 15pt;
+  padding: 20px;
+}
+
+#flash1:hover {
+  text-decoration: underline;
+}
+#flash1:active {
+  padding: 20px;
+}
+#flash2 {
+  cursor: pointer;
+  color: white;
+  text-align: justify;
+  font-size: 15pt;
+  padding: 20px;
+}
+
+#flash2:hover {
+  text-decoration: underline;
+}
+#flash3 {
+  cursor: pointer;
+  color: white;
+  text-align: justify;
+  font-size: 15pt;
+  padding: 20px;
+
+}
+
+#flash3:hover {
+  text-decoration: underline;
+}
+body {
+  padding: 10px;
+}
